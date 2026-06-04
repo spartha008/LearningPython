@@ -21,4 +21,5 @@ while (count > 0):
 else:
     print("I am inside else")
 
-# Do while loop in c++ or java is executed at least once irrespective if the condition is met or not
+
+
