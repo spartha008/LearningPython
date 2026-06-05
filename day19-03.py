@@ -106,3 +106,14 @@ while True:
 
             print("\nInvalid choice!")
             continue
+'''
+Challenge Version (Try Without Looking at Solution)
+
+Build a Banking System with:
+
+Create account
+Check balance
+Deposit money
+Withdraw money
+Exit
+'''
