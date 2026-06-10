@@ -1,6 +1,8 @@
 # Functions
 # A function is a block of code that performs a specific task whenever it is called.
 # i) Built-in Functions ii) User-defined Functions
+# i) These functions are pre-defined and pre-coded in python; e.g.;
+# min(), max(), len(), sum(), type(), range(), dict(), list(), tuple(), set(), print(), etc.,
 
 
 def calculateGmean(a, b):
@@ -12,6 +14,9 @@ def isGreater(a, b):
         print("First number is greater")
     else:
         print("Second number is greater or equal")
+
+def isLesser(a, b):
+    pass
 
 a = 9
 b = 8
